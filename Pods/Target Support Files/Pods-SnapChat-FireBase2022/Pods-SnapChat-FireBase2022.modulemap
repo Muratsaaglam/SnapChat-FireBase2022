@@ -1,0 +1,6 @@
+framework module Pods_SnapChat_FireBase2022 {
+  umbrella header "Pods-SnapChat-FireBase2022-umbrella.h"
+
+  export *
+  module * { export * }
+}
