@@ -1,3 +1,4 @@
+# SnapChat Clone FireBase 2022
 Swift 5 and FireBase, Technology Used in MVVM Architecture. You can create users with E-Mail in SnapChat Clone application. After creating custom UserName you can upload Photo. Other users can see and like your photos 24 hours a day.
 
 Application Video : 
